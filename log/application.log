@@ -1,1 +1,36 @@
-
+2026-06-28 18:39:42 | INFO | __main__ | Application start
+2026-06-28 18:39:42 | INFO | __main__ | Processing alert file: C:\Users\User\Desktop\IOC_Extractor\benign_alert.txt
+2026-06-28 18:39:42 | INFO | __main__ | Processing alert file: C:\Users\User\Desktop\IOC_Extractor\malicious_alert.txt
+2026-06-28 18:39:42 | INFO | report_generator | Report generation complete: C:\Users\User\Desktop\IOC_Extractor\reports\report.json, C:\Users\User\Desktop\IOC_Extractor\reports\report.csv
+2026-06-28 18:39:42 | INFO | __main__ | Application completed successfully
+2026-06-28 18:49:21 | INFO | __main__ | Application start
+2026-06-28 18:49:21 | INFO | __main__ | Processing alert file: C:\Users\User\Desktop\IOC_Extractor\benign_alert.txt
+2026-06-28 18:49:21 | INFO | __main__ | Processing alert file: C:\Users\User\Desktop\IOC_Extractor\malicious_alert.txt
+2026-06-28 18:49:21 | INFO | report_generator | Report generation complete: C:\Users\User\Desktop\IOC_Extractor\reports\report.json, C:\Users\User\Desktop\IOC_Extractor\reports\report.csv
+2026-06-28 18:49:21 | INFO | __main__ | Application completed successfully
+2026-06-28 18:55:31 | INFO | __main__ | Application start
+2026-06-28 18:55:31 | INFO | __main__ | Processing alert file: C:\Users\User\Desktop\IOC_Extractor\benign_alert.txt
+2026-06-28 18:55:31 | INFO | virustotal | VirusTotal lookup: 192.168.10.44 (IPv4)
+2026-06-28 18:55:33 | INFO | abuseipdb | AbuseIPDB lookup: 192.168.10.44
+2026-06-28 18:55:34 | INFO | virustotal | VirusTotal lookup: 8.8.8.8 (IPv4)
+2026-06-28 18:55:34 | INFO | abuseipdb | AbuseIPDB lookup: 8.8.8.8
+2026-06-28 18:55:35 | INFO | virustotal | VirusTotal lookup: https://www.microsoft.com/security/blog/ (URL)
+2026-06-28 18:55:35 | INFO | virustotal | VirusTotal lookup: www.microsoft.com (Domain)
+2026-06-28 18:55:36 | INFO | virustotal | VirusTotal lookup: d41d8cd98f00b204e9800998ecf8427e (FileHash)
+2026-06-28 18:55:36 | INFO | virustotal | VirusTotal lookup: da39a3ee5e6b4b0d3255bfef95601890afd80709 (FileHash)
+2026-06-28 18:55:37 | INFO | virustotal | VirusTotal lookup: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 (FileHash)
+2026-06-28 18:55:37 | INFO | __main__ | Processing alert file: C:\Users\User\Desktop\IOC_Extractor\malicious_alert.txt
+2026-06-28 18:55:37 | INFO | virustotal | VirusTotal lookup: 10.1.21.58 (IPv4)
+2026-06-28 18:55:38 | INFO | abuseipdb | AbuseIPDB lookup: 10.1.21.58
+2026-06-28 18:55:38 | INFO | virustotal | VirusTotal lookup: 185.220.101.16 (IPv4)
+2026-06-28 18:55:39 | INFO | abuseipdb | AbuseIPDB lookup: 185.220.101.16
+2026-06-28 18:55:39 | INFO | virustotal | VirusTotal lookup: http://whitepepper.su/login.php?ref=auth (URL)
+2026-06-28 18:55:40 | ERROR | virustotal | VirusTotal error for http://whitepepper.su/login.php?ref=auth (URL): VirusTotal indicator not found
+2026-06-28 18:55:40 | INFO | virustotal | VirusTotal lookup: login.php (Domain)
+2026-06-28 18:55:40 | ERROR | virustotal | VirusTotal error for login.php (Domain): VirusTotal request failed
+2026-06-28 18:55:40 | INFO | virustotal | VirusTotal lookup: 44d88612fea8a8f36de82e1278abb02f (FileHash)
+2026-06-28 18:55:41 | INFO | virustotal | VirusTotal lookup: 3395856ce81f2b7382dee72602f798b642f14140 (FileHash)
+2026-06-28 18:55:41 | INFO | virustotal | VirusTotal lookup: 6b51f6d2ab4b0c6efab0c7fef4a2d92ec4f65ad89d0ab5ef1b23d6b6c2a5d55f (FileHash)
+2026-06-28 18:55:42 | ERROR | virustotal | VirusTotal error for 6b51f6d2ab4b0c6efab0c7fef4a2d92ec4f65ad89d0ab5ef1b23d6b6c2a5d55f (FileHash): VirusTotal indicator not found
+2026-06-28 18:55:42 | INFO | report_generator | Report generation complete: C:\Users\User\Desktop\IOC_Extractor\reports\report.json, C:\Users\User\Desktop\IOC_Extractor\reports\report.csv
+2026-06-28 18:55:42 | INFO | __main__ | Application completed successfully
