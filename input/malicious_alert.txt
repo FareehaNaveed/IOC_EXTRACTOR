@@ -1,1 +1,12 @@
-
+Alert ID: MAL-2026-7339
+Timestamp: 2026-06-28T10:03:11Z
+Severity: High
+Event: ET MALWARE C2 Beacon Detected
+Source IP: 10.1.21.58
+Destination IP: 185.220.101.16
+URL: http://whitepepper.su/login.php?ref=auth
+Domain: whitepepper.su
+MD5: 44d88612fea8a8f36de82e1278abb02f
+SHA1: 3395856ce81f2b7382dee72602f798b642f14140
+SHA256: 6b51f6d2ab4b0c6efab0c7fef4a2d92ec4f65ad89d0ab5ef1b23d6b6c2a5d55f
+Status: Blocked by IDS

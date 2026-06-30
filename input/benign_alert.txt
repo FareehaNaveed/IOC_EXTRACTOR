@@ -1,0 +1,12 @@
+Alert ID: BEN-2026-1001
+Timestamp: 2026-06-28T09:14:22Z
+Severity: Low
+Event: DNS Query Allowed
+Source IP: 192.168.10.44
+Destination IP: 8.8.8.8
+URL: https://www.microsoft.com/security/blog/
+Domain: microsoft.com
+MD5: d41d8cd98f00b204e9800998ecf8427e
+SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
+SHA256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+Status: Allowed
