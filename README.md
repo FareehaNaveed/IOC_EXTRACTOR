@@ -99,9 +99,6 @@ Each report row contains:
 - Rate limits (HTTP 429)
 - Missing reports/logs directories (auto-created)
 
-## Screenshot Placeholders
-- docs/screenshots/run-output.png
-- docs/screenshots/report-preview.png
 
 ## Future Improvements
 - Async API enrichment for higher throughput
